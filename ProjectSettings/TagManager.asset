@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Coleccionable
   - Suelo
+  - Pared
+  - Cyllinder
+  - Capsula
+  - Triangulo
   layers:
   - Default
   - TransparentFX
